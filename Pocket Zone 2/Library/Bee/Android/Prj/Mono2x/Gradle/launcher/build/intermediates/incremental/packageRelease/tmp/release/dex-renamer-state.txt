@@ -1,0 +1,4 @@
+#Sat Oct 14 01:32:13 VLAT 2023
+base.0=/Users/pavelgorskov/Pocket Zone 2/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
